@@ -1,0 +1,4 @@
+matplotlib
+numpy as np
+scipy
+ipywidgets
