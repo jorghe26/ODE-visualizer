@@ -1,4 +1,4 @@
 matplotlib
-numpy as np
+numpy
 scipy
 ipywidgets
